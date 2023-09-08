@@ -1,6 +1,7 @@
 # Summative-2
 
-[![Video overview of Project](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/e5Slel04DJI?si=FR-4Mdh79M1u26NV)
+[![Video overview of Project](https://img.youtube.com/vi/e5Slel04DJI/0.jpg)](https://youtu.be/e5Slel04DJI)
+
 
 ## User Stories
 
