@@ -13,6 +13,11 @@ This project presents a Bookstore Management System backed by a RESTful API and 
 - Search by specific/niche searches, such as find a book by author or publisher.
 - Retrieve detailed information, including associated publisher and author, and as far as their first name and last name.
 
+## 🌟 Highlights
+- **Object Relational Mapping**: An author or publisher can have many books, but books cannot have many authors or publishers. Addressed this by establishing relationships (such as one to many) in the models.
+- **Intuitive API Endpoints**: CRUD operations made easy for authors, publishers, and books.
+- **GraphQL Integration**: Dive deep with detailed queries, offering flexible data retrieval.
+
 ## 🔧 Technical Features
 
 ### Backend Technologies
@@ -30,7 +35,4 @@ This project presents a Bookstore Management System backed by a RESTful API and 
 ### GraphQL Queries
 - Retrieve detailed info about a publisher, author, or book, including their related entities such as the first name, last name, ISBN, etc...
 
-## 🌟 Highlights
-- **Object Relational Mapping**: An author or publisher can have many books, but books cannot have many authors or publishers. Addressed this by establishing relationships (such as one to many) in the models.
-- **Intuitive API Endpoints**: CRUD operations made easy for authors, publishers, and books.
-- **GraphQL Integration**: Dive deep with detailed queries, offering flexible data retrieval.
+
