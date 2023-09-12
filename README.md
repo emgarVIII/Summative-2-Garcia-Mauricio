@@ -1,7 +1,7 @@
 # Bookstore Management System
 
 ## 🎥 Video Walkthrough
-Embark on a [brief visual journey](https://youtu.be/e5Slel04DJI) that demonstrates the project's capabilities and highlights.
+Embark on a [brief visual journey on YouTube](https://youtu.be/e5Slel04DJI) that demonstrates the project's capabilities and highlights.
 [![Project Thumbnail](https://img.youtube.com/vi/e5Slel04DJI/0.jpg)](https://youtu.be/e5Slel04DJI)
 
 ## 📌 Overview
