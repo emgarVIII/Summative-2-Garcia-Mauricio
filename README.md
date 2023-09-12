@@ -1,4 +1,4 @@
-# Summative-2: Bookstore Management System
+# Bookstore Management System
 
 ## 🎥 Video Walkthrough
 Embark on a [brief visual journey](https://youtu.be/e5Slel04DJI) that demonstrates the project's capabilities and highlights.
