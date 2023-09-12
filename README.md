@@ -30,7 +30,6 @@ This project presents a Bookstore Management System backed by a RESTful API and 
 - **Environment**: Developed with `Java 11` using `IntelliJ`.
 - **Framework**: Initialized with Spring Boot (2.x.x).
 - **Build Tool**: Managed with `Maven`.
-- **API Domain**: Set under `com.company.bookstore`.
 
 ### GraphQL Queries
 - Retrieve detailed info about a publisher, author, or book, including their related entities such as the first name, last name, ISBN, etc...
